@@ -3,7 +3,7 @@
 ##
 😄 **Apaixonado por Tecnologia e Inovação** 😄
 
-Dei os primeiros passos nesse universo extraordinário há 15 anos e atualmente estou mergulhando no Desenvolvimento Web. Mais precisamente no Front-End.
+Imergi nesse universo extraordinário há 15 anos e atualmente estou focado no Desenvolvimento Web. Mais precisamente no Front-End.
 ##
 <div align="center">
   <a href="https://github.com/glaubermurta">
