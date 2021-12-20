@@ -3,7 +3,7 @@
 ##
 😄 **Apaixonado por Tecnologia e Inovação** 😄
 
-Imergi nesse universo extraordinário há 15 anos e atualmente estou focado no Desenvolvimento Web. Mais precisamente no Front-End.
+Imergi nesse universo extraordinário da Tecnologia há 15 anos e atualmente estou focado no aprendizado de Desenvolvimento Web. Mais precisamente no Front-End.
 ##
 
 <div>
