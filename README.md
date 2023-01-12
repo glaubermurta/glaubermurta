@@ -6,8 +6,7 @@
 Imergi nesse universo extraordinário da Tecnologia há 16 anos do qual pude colocar na bagagem muitas experiências e vivenciar grandes descobertas e conhecimentos. 
 ##
 
-<div>
-  
+<div>  
   <a href="https://github.com/glaubermurta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaubermurta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
