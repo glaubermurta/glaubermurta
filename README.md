@@ -9,7 +9,11 @@ Atualmente trabalho como Product Owner na [Apiki WordPress](https://apiki.com/).
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubermurta&layout=compact)](https://github.com/glaubermurta/github-readme-stats)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubermurta&layout=compact&theme=dracula)](https://github.com/glaubermurta/github-readme-stats)
+
+##
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=glaubermurta&show_icons-tures&theme=dracula)]
 
 ##
 
