@@ -13,7 +13,7 @@ Atualmente trabalho como Product Owner na [Apiki WordPress](https://apiki.com/).
 
 ##
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=glaubermurta&show_icons-tures&theme=dracula)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=glaubermurta&show_icons-tures&theme=dracula)
 
 ##
 
