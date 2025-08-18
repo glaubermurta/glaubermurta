@@ -4,7 +4,7 @@
 
 😄 **Apaixonado por Tecnologia e Inovação** 😄
 
-Imergi nesse universo extraordinário da Tecnologia há 18 anos e desde então tenho colocado na bagagem muitas experiências e vivenciando grandes descobertas e conhecimentos. 
+Imergi nesse universo extraordinário da Tecnologia há quase 20 anos e desde então tenho colocado na bagagem muitas experiências e vivenciando grandes descobertas e conhecimentos. 
 Atualmente trabalho como Product Owner na [Apiki WordPress](https://apiki.com/).
 
 ##
